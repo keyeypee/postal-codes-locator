@@ -1,5 +1,5 @@
 {
-  "name": "google-maps",
+  "name": "postal-codes-locator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
