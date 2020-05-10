@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Setup
 
-In project root directory, run following command.
+Run following commands.
 
 ```
     git clone https://github.com/keyeypee/postal-codes-locator.git
