@@ -15,6 +15,8 @@ https://keyeypee.github.io/postal-codes-locator/
 
 ## Setup
 
+Use Node version 10.
+
 Run following commands.
 
 ```
