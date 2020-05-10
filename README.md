@@ -15,13 +15,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In project root directory, run following command.
 
 ```
-    yarn install
+    git clone https://github.com/keyeypee/postal-codes-locator.git
+    cd postal-codes-locator && yarn install
 ```
 
 Or
 
 ```
-    npm install
+    git clone https://github.com/keyeypee/postal-codes-locator.git
+    cd postal-codes-locator && npm install
 ```
 
 To run the project use below scripts.
