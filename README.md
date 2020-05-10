@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Application Implementation
 
-- Made a Search bar which filters out the postal codes based on postal_codes and names of the locations. It triggers filter only when user stops for atleast 300 ms (Used `debounce` for that).
+- Made a Search bar which filters out the postal codes based on postal codes and names of the locations. It triggers filter only when user stops for atleast 300 ms (Used `debounce` for that).
 - For Table, used `Virtual Scroll Concept`, it takes filtered results from Search bar or total results as prop. It loads on few records in DOM that in view only, thus optimising memory uses. Also once user stops scrolling for atleast 300 ms (`debounce` again), then only it triggers re-render of markers on Google Map on side. Thus preventing unnecessary re-renders.
 - In Map Section, drawing markers for records that are in current view only. Created a `LatLngBound` accross current markers, thus making them to come to view every time new markers are drawn.
 - Used styled-components for writing CSS in SCSS style.
