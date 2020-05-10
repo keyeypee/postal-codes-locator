@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/postal-codes-locator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/postal-codes-locator/static/js/main.997d06fd.chunk.js",
+    "main.js.map": "/postal-codes-locator/static/js/main.997d06fd.chunk.js.map",
+    "runtime-main.js": "/postal-codes-locator/static/js/runtime-main.7c05c6a6.js",
+    "runtime-main.js.map": "/postal-codes-locator/static/js/runtime-main.7c05c6a6.js.map",
+    "static/js/2.ecc9952e.chunk.js": "/postal-codes-locator/static/js/2.ecc9952e.chunk.js",
+    "static/js/2.ecc9952e.chunk.js.map": "/postal-codes-locator/static/js/2.ecc9952e.chunk.js.map",
+    "index.html": "/postal-codes-locator/index.html",
+    "precache-manifest.a52ab5fe61f9a0aa2eae897442e06cad.js": "/postal-codes-locator/precache-manifest.a52ab5fe61f9a0aa2eae897442e06cad.js",
+    "service-worker.js": "/postal-codes-locator/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/postal-codes-locator/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ecc9952e.chunk.js.LICENSE.txt": "/postal-codes-locator/static/js/2.ecc9952e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c05c6a6.js",
+    "static/js/2.ecc9952e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.997d06fd.chunk.js"
+  ]
+}
