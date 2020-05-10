@@ -2,6 +2,7 @@
   "name": "postal-codes-locator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://keyeypee.github.io/postal-codes-locator",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -11,7 +12,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

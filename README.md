@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo deployed at
+https://keyeypee.github.io/postal-codes-locator/
+
 ## Application Implementation
 
 - Made a Search bar which filters out the postal codes based on postal codes and names of the locations. It triggers filter only when user stops for atleast 300 ms (Used `debounce` for that).
